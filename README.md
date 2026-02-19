@@ -125,7 +125,7 @@
 # 🚀 Featured Projects
 
 - 🔹 AI Resume Analyzer  
-- 🔹 MERN Chat Application  
+- 🔹**MERN Chat Application** [https://real-time-chat-app-rq6r.onrender.com](https://real-time-chat-app-rq6r.onrender.com)
 - 🔹 Blog Platform  
 - 🔹 DSA Practice Tracker  
 
