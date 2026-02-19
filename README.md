@@ -1,4 +1,4 @@
-# AYUSH-KUMAR-
+
 <!-- ======================= HEADER ======================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Ayush%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
