@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">🚀 Software Developer in Progress | MERN Stack | AI Explorer | Competitive Programmer</h3>
+<h3 align="center"> Software Developer in Progress | MERN Stack | AI Explorer | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=550&lines=Future+Software+Engineer;Building+Scalable+Web+Apps;Solving+DSA+Daily;Exploring+GenAI+and+LLMs;Consistency+%3D+Success" />
@@ -39,7 +39,7 @@
 
 ---
 
-# 🚀 Tech Arsenal
+#  I'm Good at
 
 ## 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -124,11 +124,8 @@
 
 # 🚀 Featured Projects
 
-- 🔹 AI Resume Analyzer  
-- 🔹**MERN Chat Application** [https://real-time-chat-app-rq6r.onrender.com](https://real-time-chat-app-rq6r.onrender.com)
-- 🔹 Blog Platform  
-- 🔹 DSA Practice Tracker  
-
+- 🔹 **Ecommerce Website**  [https://ecommercewebsite-orcin-pi.vercel.app/](https://ecommercewebsite-orcin-pi.vercel.app/)
+- 🔹**Real Time Chat Application** [https://real-time-chat-app-rq6r.onrender.com](https://real-time-chat-app-rq6r.onrender.com)
 ---
 
 # 💎 Personal Philosophy
