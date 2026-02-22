@@ -130,7 +130,7 @@
 
 # 💎 Personal Philosophy
 
-> “Discipline and consistency build extraordinary results.”
+> “Commit Today Conqueror Tomorrow”
 
 ---
 
