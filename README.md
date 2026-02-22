@@ -96,6 +96,12 @@
 # 🏆 Competitive Programming
 
 <p align="center">
+  <a href="https://codolio.com/profile/confused.ayush">
+    <img src="https://leetcard.jacoblin.cool/confused_ayush?theme=dark&font=Karma" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/confused_ayush/">
     <img src="https://leetcard.jacoblin.cool/confused_ayush?theme=dark&font=Karma" />
   </a>
