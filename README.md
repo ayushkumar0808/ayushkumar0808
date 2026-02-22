@@ -95,10 +95,6 @@
 
 # 🏆 Competitive Programming
 
-<a href="https://codolio.com/profile/confused.ayush">
-  <img src="https://img.shields.io/badge/Codolio-Profile-00C853?style=for-the-badge&logo=google-chrome">
-</a>
-
 <p align="center">
   <a href="https://leetcode.com/u/confused_ayush/">
     <img src="https://leetcard.jacoblin.cool/confused_ayush?theme=dark&font=Karma" />
@@ -106,6 +102,10 @@
 </p>
 
 <p align="center">
+  <a href="https://codolio.com/profile/confused.ayush">
+  <img src="https://img.shields.io/badge/Codolio-Profile-00C853?style=for-the-badge&logo=google-chrome">
+</a>
+
   <a href="https://www.geeksforgeeks.org/profile/ayushkumar008?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-AyushKumar-green?style=for-the-badge&logo=geeksforgeeks"/>
   </a>
