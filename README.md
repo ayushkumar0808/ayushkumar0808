@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center"> Software Developer in Progress | MERN Stack | AI Explorer | Competitive Programmer</h3>
+<h3 align="center">Full Stack Developer | MCA Student | MERN Stack | AI Explorer | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=550&lines=Future+Software+Engineer;Building+Scalable+Web+Apps;Solving+DSA+Daily;Exploring+GenAI+and+LLMs;Consistency+%3D+Success" />
@@ -19,7 +19,7 @@
 - 💡 Passionate about **MERN Stack, GenAI & Machine Learning**  
 - 🧠 Strong interest in Data Structures & Algorithms  
 - 🎯 Goal: Crack a Product-Based Company  
-- 🔥 Believer in long-term consistency  
+- 🔥 I build web applications using React, Next.js, Node.js, MongoDB and JavaScript.
 
 ---
 
@@ -131,6 +131,15 @@
 - 🔹 **Ecommerce Website**  [https://ecommercewebsite-orcin-pi.vercel.app/](https://ecommercewebsite-orcin-pi.vercel.app/)
 - 🔹**Real Time Chat Application** [https://real-time-chat-app-rq6r.onrender.com](https://real-time-chat-app-rq6r.onrender.com)
 ---
+
+## 🌐 Portfolio
+
+https://ayush-portfolio-com.vercel.app/
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ayushkumar0808
+- GitHub: https://github.com/ayushkumar0808
 
 # 💎 Personal Philosophy
 
