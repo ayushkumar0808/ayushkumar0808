@@ -131,8 +131,9 @@
 
 # 🚀 Featured Projects
 
-- 🔹 **Ecommerce Website**  [https://ecommercewebsite-orcin-pi.vercel.app/](https://ecommercewebsite-orcin-pi.vercel.app/)
-- 🔹**Real Time Chat Application** [https://real-time-chat-app-rq6r.onrender.com](https://real-time-chat-app-rq6r.onrender.com)
+- 🔹**College Event Management Portal** [https://college-event-management-portal-gules.vercel.app/](https://college-event-management-portal-gules.vercel.app/)
+- 🔹**Real Time Chat Application** [https://real-time-chat-app-chi-five.vercel.app/](https://real-time-chat-app-chi-five.vercel.app/)
+- 🔹**Ecommerce Website**  [https://ecommercewebsite-orcin-pi.vercel.app/](https://ecommercewebsite-orcin-pi.vercel.app/)
 ---
 
 # 💎 Personal Philosophy
