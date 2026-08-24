@@ -35,6 +35,9 @@
   <a href="https://github.com/ayushkumar0808" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-AyushKumar-black?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://ayush-portfolio-com.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -131,15 +134,6 @@
 - 🔹 **Ecommerce Website**  [https://ecommercewebsite-orcin-pi.vercel.app/](https://ecommercewebsite-orcin-pi.vercel.app/)
 - 🔹**Real Time Chat Application** [https://real-time-chat-app-rq6r.onrender.com](https://real-time-chat-app-rq6r.onrender.com)
 ---
-
-## 🌐 Portfolio
-
-https://ayush-portfolio-com.vercel.app/
-
-## 🔗 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/ayushkumar0808
-- GitHub: https://github.com/ayushkumar0808
 
 # 💎 Personal Philosophy
 
