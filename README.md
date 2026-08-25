@@ -1,4 +1,3 @@
-
 <!-- ======================= HEADER ======================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Ayush%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -9,6 +8,13 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=550&lines=Future+Software+Engineer;Building+Scalable+Web+Apps;Solving+DSA+Daily;Exploring+GenAI+and+LLMs;Consistency+%3D+Success" />
+</p>
+
+<!-- ======================= PROFILE VIEWS + BADGES ======================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushkumar0808&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ayushkumar0808?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge" alt="Open to opportunities" />
 </p>
 
 ---
@@ -42,7 +48,7 @@
 
 ---
 
-#  I'm Good at
+# 🧰 Tech Stack
 
 ## 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -50,15 +56,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
----
-
 ## ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
----
 
 ## 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
@@ -67,27 +69,19 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 
----
-
 ## 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
 
 ## 🤖 AI / ML & Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
----
-
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
----
 
 ## 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -127,13 +121,30 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumar0808&theme=tokyo-night" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar0808&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 # 🚀 Featured Projects
 
-- 🔹**College Event Management Portal** [https://college-event-management-portal-gules.vercel.app/](https://college-event-management-portal-gules.vercel.app/)
-- 🔹**Real Time Chat Application** [https://real-time-chat-app-chi-five.vercel.app/](https://real-time-chat-app-chi-five.vercel.app/)
-- 🔹**Ecommerce Website**  [https://ecommercewebsite-orcin-pi.vercel.app/](https://ecommercewebsite-orcin-pi.vercel.app/)
+<p align="center">
+  <a href="https://college-event-management-portal-gules.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/College%20Event%20Management%20Portal-Live%20Demo-241E30?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://real-time-chat-app-chi-five.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Real%20Time%20Chat%20App-Live%20Demo-241E30?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://ecommercewebsite-orcin-pi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ecommerce%20Website-Live%20Demo-241E30?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 # 💎 Personal Philosophy
