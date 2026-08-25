@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer | MCA Student | MERN Stack | AI Explorer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=550&lines=Future+Software+Engineer;Building+Scalable+Web+Apps;Solving+DSA+Daily;Exploring+GenAI+and+LLMs;Consistency+%3D+Success" />
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&width=550&lines=Future+Software+Engineer;Building+Scalable+Web+Apps;Solving+DSA+Daily;Exploring+GenAI+and+LLMs;Consistency+%3D+Success" />
 </p>
 
 <!-- ======================= PROFILE VIEWS + BADGES ======================= -->
@@ -114,7 +114,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar0808&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar0808&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=ayushkumar0808&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
