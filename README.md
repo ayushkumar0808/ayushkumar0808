@@ -110,22 +110,18 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar0808&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=ayushkumar0808&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar0808&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar0808&theme=tokyonight&hide_border=true" height="170"/>
+</p> 
+  
+  <p align="center">  
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumar0808&theme=tokyo-night" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumar0808&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar0808&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
+  ---
 
 # 🚀 Featured Projects
 
