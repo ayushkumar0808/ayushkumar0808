@@ -14,16 +14,15 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Snake
+      - name: Generate Purple Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ayushkumar0808
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%237B2CBF&color_dots=%23F3E8FF,%23E9D5FF,%23D8B4FE,%23B76CF6,%238B2FC9
 
       - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
