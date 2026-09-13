@@ -176,7 +176,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushkumar0808/ayushkumar0808/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 # 💎 Personal Philosophy
